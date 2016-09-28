@@ -1,0 +1,21 @@
+body {
+    background-color: #FF9999;
+    color: white;
+    font-size: 40px;
+    line-height: 30px;
+    letter-spacing:5px;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+p {
+    color: red;
+    background-color:yellow;
+    width: 200px;
+    overflow: hidden;
+    text-decoration: underline;
+    
+}
+
+.main {
+    font-family:Phosphate,impact;
+}
