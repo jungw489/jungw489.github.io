@@ -1,0 +1,348 @@
+body {
+    background-color: white;
+}
+
+.first {
+    width: 50px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FFCCCC;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FFCCCC;
+
+}
+
+.second {
+    width: 100px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FF9999;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FF9999;
+}
+
+.third {
+    width: 150px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FF6666;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FF6666;
+}
+
+.fourth {
+    width: 200px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FF0000;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FF0000;
+}
+
+.fifth {
+    width: 250px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FFCC99;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FFCC99;
+}
+
+.sixth {
+    width: 300px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FF9966;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FF9966;
+}
+
+.seventh {
+    width: 350px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FF6633;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FF6633;
+}
+
+.eighth {
+    width: 400px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FF6600;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FF6600;
+}
+
+.ninth {
+    width: 450px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FFFF99;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FFFF99;
+}
+
+.tenth {
+    width: 500px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FFFF66;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FFFF66;
+}
+
+.eleventh {
+    width: 550px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FFFF00;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FFFF00;
+}
+
+.twelveth {
+    width: 600px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #FFCC00;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FFCC00;
+}
+
+.thirteenth {
+    width: 650px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #66FF66;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #66FF66;
+}
+
+.fourteenth {
+    width: 700px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #00CC00;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #00CC00;
+}
+
+.fifteenth {
+    width: 750px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #009900;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #009900;
+}
+
+
+.sixteenth {
+    width: 800px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #006600;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #006600;
+}
+
+
+.seventeenth {
+    width: 850px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #99FFFF;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #99FFFF;
+}
+
+
+.eighteenth {
+    width: 900px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #00FFFF;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #00FFFF;
+}
+
+
+.ninteenth {
+    width: 950px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #00CCFF;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #00CCFF;
+}
+
+
+.twentieth {
+    width: 1000px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #0099FF;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #0099FF;
+}
+
+.twentyfirst {
+    width: 1050px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #3366FF;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #3366FF;
+}
+
+.twentysecond {
+    width: 1100px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #0000CC;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #0000CC;
+}
+
+.twentythird {
+    width: 1150px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #000099;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #000099;
+}
+
+.twentyfourth {
+    width: 1200px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #000066;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #000066;
+}
+
+.twentyfifth {
+    width: 1250px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #9933FF;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #9933FF;
+}
+
+.twentysixth {
+    width: 1300px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #663399;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #663399;
+}
+
+.twentyseventh{
+    width: 1350px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #660099;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #660099;
+}
+
+.twentyeighth {
+    width: 1400px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #330066;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #330066;
+}
+
+
+

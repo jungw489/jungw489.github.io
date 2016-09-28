@@ -1,23 +1,17 @@
 body {
-    background-color: #37ebdc;
-    color: white;
-    font-size: 40px;
-    line-height: 30px;
-    letter-spacing:5px;
-    font-family:Helvetica, Arial, sans-serif;
+    background-color: white;
 }
 
 p {
     color: red;
-    background-color:yellow;
+    background-color:skyblue;
     width: 200px;
     overflow: hidden;
-    text-decoration: underline;
     
 }
 
 a {
-    top: 10px;
+    top: 100px;
     right: 10px;
     font-size: 20px;
     font-family: impact;
@@ -35,7 +29,6 @@ a {
     right: 0;
     margin: 0;
     padding: 30px;
-    border: 10px double black;
 }
 
 .special {
