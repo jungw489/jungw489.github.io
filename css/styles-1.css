@@ -332,3 +332,14 @@ body {
     background-color: #660099;
 }
 
+.twentyeighth {
+    width: 1400px;
+    top: 20px;
+    right: 10px;
+    font-size: 20px;
+    font-family: impact;
+    color: #330066;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #330066;
+}
