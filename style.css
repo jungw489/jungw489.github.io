@@ -2,9 +2,9 @@ body {
     background-color: #FF9999;
     color: white;
     font-size: 40px;
-    line-height: 30px;
+    line-height: 70px;
     letter-spacing:5px;
-    font-family:Helvetica, Arial, sans-serif;
+    font-family:impact;
 }
 
 p {
@@ -13,9 +13,20 @@ p {
     width: 200px;
     overflow: hidden;
     text-decoration: underline;
+    font-family:Helvetica, Arial, sans-serif;
     
+}
+
+a {
+    color: black;
+    line-height: 2;
+    width: 200px;
+    overflow: hidden;
+    text-decoration: underline;
+    font-family:Helvetica, Arial, sans-serif;
 }
 
 .main {
     font-family:Phosphate,impact;
+    font-family:Helvetica, Arial, sans-serif;
 }

@@ -1,0 +1,40 @@
+body {
+    background-color: #37ebdc;
+    color: white;
+    font-size: 40px;
+    line-height: 30px;
+    letter-spacing:5px;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+
+.wrapper {
+    margin: 0 auto;
+    width: 800px;
+    font-size:0;
+    letter-spacing: 0;
+    background-color:black;
+}
+
+.column {
+    background-color: red;
+    width: 200px;
+    color: white;
+    padding: 0 40px;
+    padding-top: 100px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;    
+}
+
+.button {
+    width: 200px;
+    height: 200px;
+    background-color: lime;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 200px;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+}
