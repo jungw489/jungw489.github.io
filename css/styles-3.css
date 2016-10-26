@@ -12,53 +12,53 @@ p {width: 200px;
 .coffee {
     background-color: #ca3767;
     top:20px;
-    left:20px;
+    left:400px;
 }
 
 .milk {
     background-color: #de5d83;
     top:240px;
-    left:20px;
+    left:400px;
 }
 
 .juice {
     background-color: #fc89ac;
     top:460px;
-    left:20px;
+    left:400px;
 }
 
 .salad {
     background-color: #f780a1;
     top: 20px;
-    left: 240px;
+    left: 620px;
 }
 
 .pasta {
-    background-color: #c8385a;
+    background-color: #ee204d;
  	top: 240px;
-    left: 240px;
+    left: 620px;
 }
 
 .pizza {
-    background-color: #ee204d;
+    background-color: #c8385a;
 	top: 460px;
-    left: 240px;
+    left: 620px;
 }
 
 .bagel {
     background-color: #ff496c;
     top: 20px;
-    left: 460px;
+    left: 840px;
 }
 
 .donut {
     background-color: #fc6c85;
    	top: 240px;
-    left: 460px;
+    left: 840px;
 }
 
 .cupcake {
     background-color: #fc2847;
     top: 460px;
-    left: 460px;
+    left: 840px;
 }
