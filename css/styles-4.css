@@ -1,4 +1,6 @@
-.button{
+body {background-color: black;}
+
+.newyork{
     background-image:url(earthnight.jpg);
     background-size:600px 400px;
     height: 300px;
@@ -7,16 +9,81 @@
     transition: all 2s;
     font-family: Arial, sans-serif;
     font-weight: bold;
-    font-size: 20px;
-    line-height: 200px;
-    color: red;
+    font-size: 30px;
     text-align: center;
+    line-height: 200px;
+    color: #80d9ff;
+    text-align: center;
+    position: fixed;
+    top:200px;
+    left:370px;
+    z-index: 2000;
 }
 
-.button:hover {
+.newyork:hover {
     width: 400px;
     height: 400px;
     background-color: red;
     line-height: 300px;
     color: white;
 }
+
+.clock {
+    width: 300px;
+    height: 200px;
+    position: fixed;
+    top: 250px;
+    left:560px;
+    animation-name: myclock;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+.seconds {
+    width: 300px;
+    height: 12px;
+    background-color: white;
+    position: absolute;
+    top: 98px;
+    left: 0px;
+}
+
+@keyframes myclock {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.seoul{
+    background-image:url(earthday.jpg);
+    background-size:600px 400px;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    transition: all 2s;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align:center;
+    line-height: 200px;
+    color: #80d9ff;
+    text-align: center;
+    position: fixed;
+    left:770px;
+    top:200px;
+}
+
+.seoul:hover {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    line-height: 300px;
+    color: white;
+}
+
+
+

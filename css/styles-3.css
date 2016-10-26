@@ -6,59 +6,59 @@ p {width: 200px;
     text-align: center;
     color: white;
     border: 10px double white;
-    position: relative;
+    position: fixed;
 }
 
-.circle-1 {
+.coffee {
     background-color: #ca3767;
     top:20px;
     left:20px;
 }
 
-.circle-2 {
+.milk {
     background-color: #de5d83;
-    top:20px;
+    top:240px;
     left:20px;
 }
 
-.circle-3 {
+.juice {
     background-color: #fc89ac;
-    top:20px;
+    top:460px;
     left:20px;
 }
 
-.circle-4 {
+.salad {
     background-color: #f780a1;
     top: 20px;
-    left: 220px;
+    left: 240px;
 }
 
-.circle-5 {
+.pasta {
     background-color: #c8385a;
- 	top: 20px;
-    left: 220px;
+ 	top: 240px;
+    left: 240px;
 }
 
-.circle-6 {
+.pizza {
     background-color: #ee204d;
-	top: 20px;
-    left: 220px;
+	top: 460px;
+    left: 240px;
 }
 
-.circle-7 {
+.bagel {
     background-color: #ff496c;
     top: 20px;
-    left: 420px;
+    left: 460px;
 }
 
-.circle-8 {
+.donut {
     background-color: #fc6c85;
-   	top: 20px;
-    left: 420px;
+   	top: 240px;
+    left: 460px;
 }
 
-.circle-9 {
+.cupcake {
     background-color: #fc2847;
-    top: 20px;
-    left: 420px;
+    top: 460px;
+    left: 460px;
 }
