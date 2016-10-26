@@ -1,0 +1,68 @@
+body {
+     background-image: url(nyc.jpg);
+}
+
+h1 {
+    color: black;
+    font-size: 65px;
+    line-height: 65px;
+    letter-spacing:5px;
+    font-family:impact;
+    position: fixed;
+    top:20px;
+    text-align: left;
+    left: 20px;
+}
+
+a {
+    position:fixed;
+}
+
+.box {
+    height: 110px;
+    width: 250px;
+    background-color: transparent;
+    border: 5px double black;
+    text-align:center;
+    font-size: 20px;
+    font-family: Arial;
+    letter-spacing:2px;
+    color: black;
+    text-decoration: none;
+}
+
+.paper {
+    position: fixed;
+    left:20px;
+    top:250px;
+}
+
+.interview {
+    position: fixed;
+    left:350px;
+    top:250px;
+}
+
+.css-1 {
+    position: fixed;
+    left:680px;
+    top:250px;
+}
+
+.css-2 {
+    position: fixed;
+    left:20px;
+    top:450px;
+}
+
+.css-3 {
+    position: fixed;
+    left:350px;
+    top:450px;
+}
+
+.css-4 {
+    position: fixed;
+    left:680px;
+    top:450px;
+}

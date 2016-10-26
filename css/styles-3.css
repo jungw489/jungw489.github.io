@@ -1,4 +1,4 @@
-p {width: 200px;
+.basic {width: 200px;
     height: 200px;
     border-radius: 150px;
     font-size: 30px;
@@ -11,54 +11,107 @@ p {width: 200px;
 
 .coffee {
     background-color: #ca3767;
-    top:20px;
+    top:40px;
     left:400px;
+}
+.coffee:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(coffee.jpg);
 }
 
 .milk {
     background-color: #de5d83;
-    top:240px;
+    top:260px;
     left:400px;
+}
+
+.milk:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(milk.jpg);
 }
 
 .juice {
     background-color: #fc89ac;
-    top:460px;
+    top:480px;
     left:400px;
+}
+
+.juice:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(juice.jpg);
 }
 
 .salad {
     background-color: #f780a1;
-    top: 20px;
+    top: 40px;
     left: 620px;
+}
+
+.salad:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(salad.jpg);
 }
 
 .pasta {
     background-color: #ee204d;
- 	top: 240px;
+ 	top: 260px;
     left: 620px;
+}
+
+.pasta:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(pasta.jpg);
 }
 
 .pizza {
     background-color: #c8385a;
-	top: 460px;
+	top: 480px;
     left: 620px;
+}
+
+.pizza:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(pizza.jpg);
 }
 
 .bagel {
     background-color: #ff496c;
-    top: 20px;
+    top: 40px;
     left: 840px;
 }
 
-.donut {
+.bagel:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(bagel.jpg);
+}
+
+.doughnut {
     background-color: #fc6c85;
-   	top: 240px;
+   	top: 260px;
     left: 840px;
+}
+
+.doughnut:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(doughnut.jpg);
 }
 
 .cupcake {
     background-color: #fc2847;
-    top: 460px;
+    top: 480px;
     left: 840px;
+}
+
+.cupcake:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(cupcake.jpg);
 }

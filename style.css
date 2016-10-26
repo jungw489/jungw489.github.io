@@ -1,13 +1,17 @@
 body {
-    background-color: #FF9999;
-    color: white;
+    background-image: url(nyc.jpg);
+    color: black;
     font-size: 35px;
     line-height: 65px;
     letter-spacing:5px;
     font-family:impact;
+    position: fixed;
+    top:20px;
+    text-align: left;
+    left: 20px;
 }
 
-a {
+classic {
     color: black;
     font-size: 20px;
     width: 100px;
