@@ -1,0 +1,48 @@
+.newyork{
+    background-image:url(earthnight.jpg);
+    background-size:600px 400px;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    transition: all 2s;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 200px;
+    color: red;
+    text-align: center;
+}
+
+.newyork:hover {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    line-height: 300px;
+    color: white;
+}
+
+.seoul{
+    background-image:url(earthday.jpg);
+    background-size:600px 400px;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    transition: all 2s;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 200px;
+    color: red;
+    text-align: center;
+}
+
+.seoul:hover {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    line-height: 300px;
+    color: white;
+}
+
+
+
