@@ -1,5 +1,27 @@
 body {background-color: black;}
 
+h1 {
+    position: fixed;
+    left: 370px;
+    top: 100px;
+    text-decoration: blink;
+    font-size: 50px;
+    font-family: Savoye LET;
+    font-weight: lighter;
+    color: white;
+}
+
+h2 {
+    position: fixed;
+    left: 560px;
+    top: 100px;
+    text-decoration: blink;
+    font-size: 50px;
+    font-family: Savoye LET;
+    font-weight: lighter;
+    color: white;
+}
+
 .newyork{
     background-image:url(earthnight.jpg);
     background-size:600px 400px;
