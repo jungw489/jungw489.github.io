@@ -1,23 +1,25 @@
-body {background-color: black;}
+body {
+    background-color:black;
+}
 
 h1 {
     position: fixed;
-    left: 370px;
+    left: 400px;
     top: 100px;
     text-decoration: blink;
     font-size: 50px;
-    font-family: Savoye LET;
+    font-family: Arial Black;
     font-weight: lighter;
     color: white;
 }
 
 h2 {
     position: fixed;
-    left: 560px;
+    left: 800px;
     top: 100px;
     text-decoration: blink;
     font-size: 50px;
-    font-family: Savoye LET;
+    font-family: Arial Black;
     font-weight: lighter;
     color: white;
 }
@@ -93,7 +95,6 @@ h2 {
     text-align:center;
     line-height: 200px;
     color: #80d9ff;
-    text-align: center;
     position: fixed;
     left:770px;
     top:200px;

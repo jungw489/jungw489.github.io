@@ -1,9 +1,12 @@
 body {
-    background-image: url(nyc.jpg);
+     background-image: url(nyc.jpg);
+}
+
+h1 {
     color: black;
-    font-size: 35px;
+    font-size: 65px;
     line-height: 65px;
-    letter-spacing:5px;
+    letter-spacing:10px;
     font-family:impact;
     position: fixed;
     top:20px;
@@ -11,12 +14,54 @@ body {
     left: 20px;
 }
 
-classic {
-    color: black;
-    font-size: 20px;
-    width: 100px;
-    overflow: hidden;
-    text-decoration: underline;
-    font-family:Helvetica, Arial, sans-serif;
+a {
+    position:fixed;
+    font-size: 25px;
+    font-family: impact;
+    letter-spacing:2px;
+    color: red;
+    text-align:left;
 }
 
+.box {
+    height: 110px;
+    width: 185px;
+    background-color: transparent;
+    border: 10px double black;
+}
+
+.paper {
+    position: fixed;
+    left:20px;
+    top:250px;
+}
+
+.interview {
+    position: fixed;
+    left:290px;
+    top:250px;
+}
+
+.css-1 {
+    position: fixed;
+    left:560px;
+    top:250px;
+}
+
+.css-2 {
+    position: fixed;
+    left:20px;
+    top:410px;
+}
+
+.css-3 {
+    position: fixed;
+    left:290px;
+    top:410px;
+}
+
+.css-4 {
+    position: fixed;
+    left:560px;
+    top:410px;
+}
