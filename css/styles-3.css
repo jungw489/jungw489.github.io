@@ -9,11 +9,16 @@
     position: fixed;
 }
 
+a {
+    color: white;
+}
+
 .coffee {
     background-color: #ca3767;
     top:40px;
     left:400px;
 }
+
 .coffee:hover {
     width: 200px;
     height: 200px;

@@ -1,12 +1,17 @@
 body {
-     background-image: url(nyc.jpg);
+    background-color: #fa8072;
+    -webkit-animation: snow 20s linear infinite;
+    -moz-animation: snow 20s linear infinite;
+    -ms-animation: snow 20s linear infinite;
+    animation: snow 20s linear infinite;
 }
 
+
 h1 {
-    color: black;
+    color: white;
     font-size: 65px;
     line-height: 65px;
-    letter-spacing:10px;
+    letter-spacing:2px;
     font-family:impact;
     position: fixed;
     top:20px;
@@ -16,18 +21,21 @@ h1 {
 
 a {
     position:fixed;
-    font-size: 25px;
+    font-size: 20px;
     font-family: impact;
     letter-spacing:2px;
-    color: red;
+    color: white;
     text-align:left;
+    margin-top:9px;
+    margin-left:15px;
 }
 
 .box {
     height: 110px;
     width: 185px;
+    border-radius:300px;
     background-color: transparent;
-    border: 10px double black;
+    border: 10px double white;
 }
 
 .paper {
@@ -38,30 +46,57 @@ a {
 
 .interview {
     position: fixed;
-    left:290px;
+    left:240px;
     top:250px;
 }
 
-.css-1 {
-    position: fixed;
-    left:560px;
-    top:250px;
-}
-
-.css-2 {
+.jquery {
     position: fixed;
     left:20px;
     top:410px;
 }
 
+.catalog {
+    position: fixed;
+    left:240px;
+    top:410px;
+}
+
+.css-1 {
+    position: fixed;
+    left:660px;
+    top:250px;
+}
+
+.css-2 {
+    position: fixed;
+    left:880px;
+    top:250px;
+}
+
 .css-3 {
     position: fixed;
-    left:290px;
-    top:410px;
+    left:1100px;
+    top:250px;
 }
 
 .css-4 {
     position: fixed;
-    left:560px;
+    left:660px;
     top:410px;
 }
+
+.css-5 {
+    position: fixed;
+    left:880px;
+    top:410px;
+}
+
+.css-6 {
+    position: fixed;
+    left:1100px;
+    top:410px;
+}
+
+
+

@@ -1,31 +1,25 @@
 body {
-    background-color:black;
+    background-image: url(jelly.jpg);
 }
 
 h1 {
+
     position: fixed;
-    left: 400px;
-    top: 100px;
+    top: 80px;
+    left:350px;
     text-decoration: blink;
     font-size: 50px;
-    font-family: Arial Black;
+    font-family: impact;
     font-weight: lighter;
     color: white;
 }
 
-h2 {
-    position: fixed;
-    left: 800px;
-    top: 100px;
-    text-decoration: blink;
-    font-size: 50px;
-    font-family: Arial Black;
-    font-weight: lighter;
+a {
     color: white;
 }
 
-.newyork{
-    background-image:url(earthnight.jpg);
+.trolli{
+    background-image:url(sour.jpg);
     background-size:600px 400px;
     height: 300px;
     width: 300px;
@@ -36,15 +30,14 @@ h2 {
     font-size: 30px;
     text-align: center;
     line-height: 200px;
-    color: #80d9ff;
-    text-align: center;
+    color: white;
     position: fixed;
-    top:200px;
+    top:250px;
     left:370px;
     z-index: 2000;
 }
 
-.newyork:hover {
+.trolli:hover {
     width: 400px;
     height: 400px;
     background-color: red;
@@ -56,7 +49,7 @@ h2 {
     width: 300px;
     height: 200px;
     position: fixed;
-    top: 250px;
+    top: 270px;
     left:560px;
     animation-name: myclock;
     animation-duration: 10s;
@@ -67,7 +60,7 @@ h2 {
 .seconds {
     width: 300px;
     height: 12px;
-    background-color: white;
+    background-color: pink;
     position: absolute;
     top: 98px;
     left: 0px;
@@ -82,8 +75,8 @@ h2 {
     }
 }
 
-.seoul{
-    background-image:url(earthday.jpg);
+.haribo{
+    background-image:url(haribo.jpg);
     background-size:600px 400px;
     height: 300px;
     width: 300px;
@@ -94,13 +87,13 @@ h2 {
     font-size: 30px;
     text-align:center;
     line-height: 200px;
-    color: #80d9ff;
+    color: white;
     position: fixed;
     left:770px;
-    top:200px;
+    top:250px;
 }
 
-.seoul:hover {
+.haribo:hover {
     width: 400px;
     height: 400px;
     background-color: red;

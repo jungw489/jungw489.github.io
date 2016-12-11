@@ -1,0 +1,26 @@
+.basic {width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    font-size: 30px;
+    font-family: impact;
+    text-align: center;
+    color: white;
+    border: 10px double white;
+    position: fixed;
+}
+
+a {
+    color: white;
+}
+
+.coffee {
+    background-image:url(machine.png);
+    top:40px;
+    left:400px;
+}
+
+.coffee:hover {
+    width: 200px;
+    height: 200px;
+    background-image:url(machine.psd);
+}
