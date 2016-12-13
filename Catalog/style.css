@@ -1,26 +1,100 @@
-.basic {width: 200px;
+body {
+    background-image: url();
+}
+.basic {
+    width: 200px;
     height: 200px;
-    border-radius: 150px;
-    font-size: 30px;
+    font-size: 60px;
     font-family: impact;
-    text-align: center;
-    color: white;
-    border: 10px double white;
-    position: fixed;
 }
 
 a {
-    color: white;
+    position: relative;
+    left: 32px;
+    top: -80px;
+    color: transparent;
 }
 
-.coffee {
-    background-image:url(machine.png);
-    top:40px;
-    left:400px;
-}
-
-.coffee:hover {
+.pop{
+    position: fixed;
+    top: 0px;
+    left: 350px;
     width: 200px;
-    height: 200px;
-    background-image:url(machine.psd);
+    height: 333px;
+    background-image: url(images/pop--1.png);
+    margin: 20px;
+}
+
+.pop:hover{
+    background-image: url(images/pop--2.png);
+}
+
+.move{
+    position: fixed;
+    top: 0px;
+    left: 580px;
+    width: 200px;
+    height: 333px;
+    background-image: url(images/move--1.png);
+    margin: 20px;
+}
+
+.move:hover{
+    background-image: url(images/move--2.png);
+}
+
+.variety{
+    position: fixed;
+    left: 810px;
+    top: 0px;
+    width: 200px;
+    height: 333px;
+    background-image: url(images/variety--1.png);
+    margin: 20px;
+}
+
+.variety:hover{
+    background-image: url(images/variety--2.png);
+}
+
+.favorite{
+    position: fixed;
+    top:355px;
+    left: 350px;
+    width: 200px;
+    height: 333px;
+    background-image: url(images/favorite--1.png);
+    margin: 20px;
+}
+
+.favorite:hover{
+    background-image: url(images/favorite--2.png);
+}
+
+.shuffle{
+    position: fixed;
+    top:355px;
+    left: 580px;
+    width: 200px;
+    height: 333px;
+    background-image: url(images/shuffle--1.png);
+    margin: 20px;
+}
+
+.shuffle:hover{
+    background-image: url(images/shuffle--2.png);
+}
+
+.bwcolor{
+    position: fixed;
+    top:355px;
+    left: 810px;
+    width: 200px;
+    height: 333px;
+    background-image: url(images/bwcolor--1.png);
+    margin: 20px;
+}
+
+.bwcolor:hover{
+    background-image: url(images/bwcolor--2.png);
 }
