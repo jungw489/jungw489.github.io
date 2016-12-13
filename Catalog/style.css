@@ -1,6 +1,3 @@
-body {
-    background-image: url();
-}
 .basic {
     width: 200px;
     height: 200px;
@@ -16,9 +13,9 @@ a {
 }
 
 .pop{
-    position: fixed;
+    position: absolute;
     top: 0px;
-    left: 350px;
+    left: 570px;
     width: 200px;
     height: 333px;
     background-image: url(images/pop--1.png);
@@ -30,9 +27,9 @@ a {
 }
 
 .move{
-    position: fixed;
+    position: absolute;
     top: 0px;
-    left: 580px;
+    left: 800px;
     width: 200px;
     height: 333px;
     background-image: url(images/move--1.png);
@@ -44,8 +41,8 @@ a {
 }
 
 .variety{
-    position: fixed;
-    left: 810px;
+    position: absolute;
+    left: 1030px;
     top: 0px;
     width: 200px;
     height: 333px;
@@ -58,9 +55,9 @@ a {
 }
 
 .favorite{
-    position: fixed;
+    position: absolute;
     top:355px;
-    left: 350px;
+    left: 570px;
     width: 200px;
     height: 333px;
     background-image: url(images/favorite--1.png);
@@ -72,9 +69,9 @@ a {
 }
 
 .shuffle{
-    position: fixed;
+    position: absolute;
     top:355px;
-    left: 580px;
+    left: 800px;
     width: 200px;
     height: 333px;
     background-image: url(images/shuffle--1.png);
@@ -86,9 +83,9 @@ a {
 }
 
 .bwcolor{
-    position: fixed;
+    position: absolute;
     top:355px;
-    left: 810px;
+    left: 1030px;
     width: 200px;
     height: 333px;
     background-image: url(images/bwcolor--1.png);
@@ -97,4 +94,66 @@ a {
 
 .bwcolor:hover{
     background-image: url(images/bwcolor--2.png);
+}
+
+.color {
+    font-size: 100px;
+    font-family: impact;
+    color: pink;
+}
+
+h1 {
+    position: absolute;
+    left: 0px;
+    top: -20px;
+    color: #e84549;
+    font-family: impact;
+    font-size: 130px;
+    
+}
+
+h2 {
+    position: absolute;
+    left: 0px;
+    top: 85px;
+    color: pink;
+    font-family: impact;
+    font-size: 120px; 
+}
+
+h3 {
+    position: absolute;
+    left: 0px;
+    top: 162px;
+    color: #e84549;
+    font-family: impact;
+    font-size: 130px; 
+}
+
+h4 {
+    position: absolute;
+    left: 10px;
+    top: 237px;
+    color: pink;
+    font-family: impact;
+    font-size: 130px; 
+}
+
+
+h5 {
+    position: absolute;
+    left: 10px;
+    top: 310px;
+    color: #e84549;
+    font-family: impact;
+    font-size: 130px; 
+}
+
+h6 {
+    position: absolute;
+    left: 10px;
+    top: 327px;
+    color: pink;
+    font-family: impact;
+    font-size: 135px;
 }
