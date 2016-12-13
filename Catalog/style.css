@@ -15,7 +15,7 @@ a {
 .pop{
     position: absolute;
     top: 0px;
-    left: 603px;
+    left: 70px;
     width: 200px;
     height: 333px;
     background-image: url(images/pop--1.png);
@@ -29,7 +29,7 @@ a {
 .move{
     position: absolute;
     top: 0px;
-    left: 833px;
+    left: 300px;
     width: 200px;
     height: 333px;
     background-image: url(images/move--1.png);
@@ -42,7 +42,7 @@ a {
 
 .variety{
     position: absolute;
-    left: 1063px;
+    left: 530px;
     top: 0px;
     width: 200px;
     height: 333px;
@@ -57,7 +57,7 @@ a {
 .favorite{
     position: absolute;
     top:355px;
-    left: 603px;
+    left: 70px;
     width: 200px;
     height: 333px;
     background-image: url(images/favorite--1.png);
@@ -71,7 +71,7 @@ a {
 .shuffle{
     position: absolute;
     top:355px;
-    left: 833px;
+    left: 300px;
     width: 200px;
     height: 333px;
     background-image: url(images/shuffle--1.png);
@@ -85,7 +85,7 @@ a {
 .bwcolor{
     position: absolute;
     top:355px;
-    left: 1063px;
+    left: 530px;
     width: 200px;
     height: 333px;
     background-image: url(images/bwcolor--1.png);
@@ -104,17 +104,18 @@ a {
 
 h1 {
     position: absolute;
-    left: 15px;
+    left: 793px;
     top: -20px;
     color: #e84549;
     font-family: impact;
     font-size: 130px;
+    text-align: right;
     
 }
 
 h2 {
     position: absolute;
-    left: 15px;
+    left: 793px;
     top: 85px;
     color: pink;
     font-family: impact;
@@ -123,7 +124,7 @@ h2 {
 
 h3 {
     position: absolute;
-    left: 15px;
+    left: 793px;
     top: 162px;
     color: #e84549;
     font-family: impact;
@@ -132,7 +133,7 @@ h3 {
 
 h4 {
     position: absolute;
-    left: 15px;
+    left: 793px;
     top: 237px;
     color: pink;
     font-family: impact;
@@ -142,7 +143,7 @@ h4 {
 
 h5 {
     position: absolute;
-    left: 15px;
+    left: 793px;
     top: 310px;
     color: #e84549;
     font-family: impact;
@@ -151,7 +152,7 @@ h5 {
 
 h6 {
     position: absolute;
-    left: 15px;
+    left: 793px;
     top: 327px;
     color: pink;
     font-family: impact;
