@@ -1,0 +1,25 @@
+body {
+    overflow: scroll;
+}
+
+h1 {
+    position: fixed;
+    left: 130px;
+    top: 20px;
+    font-size: 100px;
+}
+
+h2 {
+    position: fixed;
+    left: 730px;
+    top: 13px;
+    text-decoration: blink;
+    font-size: 40px;
+    font-family: impact;
+    font-weight: lighter;
+    color: black;
+}
+
+img {
+    left: 100px;
+}
