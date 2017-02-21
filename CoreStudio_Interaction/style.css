@@ -1,0 +1,28 @@
+.basic {
+    width: 375px;
+    height: 667px;
+    top: 5%;
+    left: 40%;
+    background-color: white;
+    position: fixed;
+    border: black solid 1px;
+}
+
+.bar {
+    width: 375px;
+    height: 63px;
+    top: 5.1%;
+    left: 40.1%;
+    background-color: #43CBB8;
+    position: fixed;
+}
+
+.img {
+    width: 122px;
+    height: 43px;
+    top: 5.1%;
+    left: 40.1%;
+}
+
+
+

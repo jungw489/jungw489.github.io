@@ -4,22 +4,30 @@ body {
 
 h1 {
     position: fixed;
-    left: 130px;
-    top: 20px;
+    left: 850px;
+    top: 0px;
     font-size: 100px;
+}
+
+h3 {
+    color: black;
+    left: 200px;
 }
 
 h2 {
     position: fixed;
-    left: 730px;
-    top: 13px;
+    left: 850px;
+    top: 170px;
     text-decoration: blink;
-    font-size: 40px;
+    font-size: 35px;
     font-family: impact;
     font-weight: lighter;
     color: black;
 }
 
 img {
-    left: 100px;
+    left: 0;
+    width: 800px;
+    top: 50%;
+    
 }
